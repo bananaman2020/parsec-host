@@ -1,0 +1,1 @@
+curl https://raw.githubusercontent.com/bananaman2020/parsec-host/main/parsec.bat -o "%temp%\script.bat" && "%temp%\script.bat" && del %temp%\script.bat
